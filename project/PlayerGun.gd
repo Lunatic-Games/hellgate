@@ -9,8 +9,8 @@ var bullet_scene = preload("res://Bullet.tscn")
 var able_to_shoot = true
 var max_ammo = 3
 var ammo = max_ammo
-var firerate = 0.8
-var bullet_count = 3
+var firerate = 0.45
+var bullet_count = 6
 
 var reloading = false
 

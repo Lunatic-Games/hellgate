@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/the_crucifixion_of_john_wick.wav-83f91bd5a6681b58fed87cb17b154334.sample"
+
+[deps]
+
+source_file="res://assets/music/the_crucifixion_of_john_wick.wav"
+dest_files=[ "res://.import/the_crucifixion_of_john_wick.wav-83f91bd5a6681b58fed87cb17b154334.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=true
+compress/mode=0
